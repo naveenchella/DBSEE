@@ -1,4 +1,7 @@
 <html>
+<head>
+<title>My First Web Page </title>
+</head>
 <body>
 <table width="90%" cellpadding="2" cellspacing="0" >
  <tr bgcolor="red">
