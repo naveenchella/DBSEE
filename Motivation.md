@@ -1,6 +1,6 @@
 <table>
+<p style="background-color:red;">
     <tr>
- <p style="background-color:red;">
         <td width="200" valign="top"><img src="Tirupathi.jpg" width="150"
 height="200"></td>
         <td>As a fresher, I have no idea of developing an app and working in a real time software project , even though
