@@ -7,7 +7,6 @@ height="200"></td>
 i had the theoritical knowledge but learning how to apply in real time is important. Since in this course
 we are developing an Android app which makes me more exciting to take this course. <br \>
     <br \>  
-  
    <p><i>Thirupathi rao Pendyala.</i></p>
      </td>
     </tr>
