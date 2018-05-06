@@ -1,6 +1,5 @@
 <html>
 <body>
-<table width="40%" cellpadding="0" cellspacing="0" >
  <tr bgcolor="red">
  <td width="400" valign="top"><img src="Tirupathi.jpg" width="150"
 height="200"></td>
