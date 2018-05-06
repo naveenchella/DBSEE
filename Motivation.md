@@ -1,7 +1,7 @@
 <html>
 <body>
 <table width="90%" cellpadding="2" cellspacing="0" >
- <tr bgcolor="#EDDD9E">
+ <tr bgcolor="red">
  <td width="400" valign="top"><img src="Tirupathi.jpg" width="150"
 height="200"></td>
  <td valign="top"><h1 align="right">CODING PIRATES</h1>
