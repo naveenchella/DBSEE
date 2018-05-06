@@ -12,5 +12,19 @@ we are developing an Android app which makes me more exciting to take this cours
     </tr>
 </table>
 
+<table>
+<p style="background-color:red;">
+    <tr>
+        <td width="200" valign="top"><img src="Praveen.jpg" width="150"
+height="200"></td>
+        <td>I am an animal lover and it is best opportunity to apply my knowledge in creating Bird Tracking App.
+As Birdtracking App requires Java implementation,it enhances my professional skills.It is very intersting
+to spend sometime with nature and to see exciting birds with different features. <br \>
+    <br \>  
+   <p><i>Praveen Putti.</i></p>
+     </td>
+    </tr>
+</table>
+
 
 
