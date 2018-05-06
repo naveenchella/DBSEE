@@ -15,7 +15,7 @@ we are developing an Android app which makes me more exciting to take this cours
 <table>
 <p style="background-color:red;">
     <tr>
-        <td width="200" valign="top"><img src="praveen.jpg" width="100"
+        <td width="200" valign="top"><img src="praveen.jpg" width="150"
 height="200"></td>
         <td>I am an animal lover and it is best opportunity to apply my knowledge in creating Bird Tracking App.
 As Birdtracking App requires Java implementation,it enhances my professional skills.It is very intersting
